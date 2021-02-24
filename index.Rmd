@@ -1,0 +1,35 @@
+---
+title: "Tamara López González"
+image: "Foto.JPG"
+links:
+  - label: GitHub
+    url: "https://github.com/TamaraLg19"
+  - label: Email
+    url: "mailto:tamaralg@lcg.unam.mx"
+output:
+  postcards::trestles
+---
+ 
+### Bio
+
+Tamara López is a passionate student of Genomic Sciences at UNAM, with a certain love for Hispanic literature and nutrition.
+
+
+
+### Education
+
+*Tecnológico de Monterrey* | Morelos, México
+
+High School | 2016 - 2019
+
+*Universidad Nacional Autónoma de México* | Cede Morelos, México
+
+Bachelor of Genomic Sciences | 2019 - Current
+
+
+
+### Little Experience
+
+**[1](https://ysjournal.com/genomic-findings-of-ancestry-in-itesm-alumni-in-mexico/)** | Genomic findings of ancestry in ITESM alumni in Mexico
+
+**[2](https://www.emerginginvestigators.org/articles/majority-and-minority-influence-in-teenagers-for-different-social-dilemmas)** | Majority and Minority Influence in Teenagers for Different Social Dilemmas
